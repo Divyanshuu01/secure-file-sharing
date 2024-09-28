@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 add .env variables  to your requirements 
 
--SECRET_KEY=9p06KE4vp595xW5tibiXndVp-FMXDLbpB24NG90Kb4c=
+-SECRET_KEY=
 -ALGORITHM=HS256
 -ACCESS_TOKEN_EXPIRE_MINUTES=30
 -DATABASE_URL=
